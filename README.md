@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/KbS6pN1JQc6xcnmd5v/giphy.gif">
+<img src="https://media.giphy.com/media/oxU4aYICwH4Aymx1jt/giphy.gif">
 
 
 ### Hi there! 👋
@@ -11,6 +11,8 @@
 ## Engineer I Risk Management I Python Learner
 
  </font>
+
+ <br />
 
 Go to my  [<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align left />][linkedin]  profile.
 
