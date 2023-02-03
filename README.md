@@ -1,4 +1,4 @@
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/Aa5dkyWUr1E6dXQr2O/video" width="480"></iframe></div>
+<iframe src="https://giphy.com/embed/1lDCW5NMgK8q0N5sbq" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SuccessionHBO-hbo-advice-succession-1lDCW5NMgK8q0N5sbq">via GIPHY</a></p>
 
 
 ### Hi there! 👋
@@ -12,9 +12,9 @@
 
  </font>
 
-Go to my  [Linkedin](https://www.linkedin.com/in/hazelsakarya) profile.
+Go to my [<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align left />][linkedin] profile.
 
-[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align left />][linkedin]
+
 
 [linkedin]: https://www.linkedin.com/in/hazelsakarya
 
