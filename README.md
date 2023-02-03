@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/1lDCW5NMgK8q0N5sbq" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SuccessionHBO-hbo-advice-succession-1lDCW5NMgK8q0N5sbq">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/KbS6pN1JQc6xcnmd5v/giphy.gif">
 
 
 ### Hi there! 👋
@@ -12,7 +12,7 @@
 
  </font>
 
-Go to my [<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align left />][linkedin] profile.
+Go to my  [<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align left />][linkedin]  profile.
 
 
 
